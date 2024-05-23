@@ -22,6 +22,7 @@ This is your first step of C++. In this course, you will learn the basic concept
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
