@@ -9,7 +9,7 @@ This is your first step of C++. In this course, you will learn the basic concept
 
 ## Scenarios
 
-|   Index | Name                                    | Difficulty   | URL                                                                  |
+|   Index | Name                                    | Difficulty   | Practice                                                             |
 |---------|-----------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Basic Syntax of C++                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178534'>Start Lab</a> |
 |       2 | 📖 C++ Variables And Types               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178540'>Start Lab</a> |
@@ -19,4 +19,9 @@ This is your first step of C++. In this course, you will learn the basic concept
 |       6 | 📖 Mastering C++ Arrays Fundamentals     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178535'>Start Lab</a> |
 |       7 | 📖 Mastering C++ Function Essentials     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178537'>Start Lab</a> |
 |       8 | 📖 C++ Formatting, File IO and Namespace | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178541'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
