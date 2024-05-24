@@ -1,6 +1,6 @@
 # Quick Start with C++
 
-![Quick Start with C++](https://cover-creator.labex.io/quick-start-with-cpp.png)
+![Quick Start with C++](https://cover-creator.appbot.io/quick-start-with-cpp.png)
 
 This is your first step of C++. In this course, you will learn the basic concepts and syntax of C++. With the fundations of what you learned here, you will be ready for your further study on C++ and build more big projects.
 
