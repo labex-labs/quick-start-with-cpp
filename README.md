@@ -12,12 +12,12 @@ This is your first step of C++. In this course, you will learn the basic concept
 |   Index | Name                                    | Difficulty   | Practice                                                             |
 |---------|-----------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Basic Syntax of C++                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178534'>Start Lab</a> |
-|       2 | 📖 C++ Variables And Types               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178540'>Start Lab</a> |
-|       3 | 📖 Mastering C++ Operators               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178538'>Start Lab</a> |
+|       2 | 📖 C++ Variables and Types               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178540'>Start Lab</a> |
+|       3 | 📖 C++ Operators                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178538'>Start Lab</a> |
 |       4 | 📖 C++ Flow Control                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178536'>Start Lab</a> |
-|       5 | 📖 Mastering C++ String Fundamentals     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178539'>Start Lab</a> |
-|       6 | 📖 Mastering C++ Arrays Fundamentals     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178535'>Start Lab</a> |
-|       7 | 📖 Mastering C++ Function Essentials     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178537'>Start Lab</a> |
+|       5 | 📖 C++ String Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178539'>Start Lab</a> |
+|       6 | 📖 C++ Arrays Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178535'>Start Lab</a> |
+|       7 | 📖 C++ Function Essentials               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178537'>Start Lab</a> |
 |       8 | 📖 C++ Formatting, File IO and Namespace | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178541'>Start Lab</a> |
 
 ## More
