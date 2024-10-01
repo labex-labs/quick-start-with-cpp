@@ -25,16 +25,18 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                         |
-|---------|------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Basic Syntax of C++                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-basic-syntax-of-c-178534'>Start Lab</a>                  |
-|       2 | 📖 C++ Variables and Types               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-variables-and-types-178540'>Start Lab</a>              |
-|       3 | 📖 C++ Operators                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-operators-178538'>Start Lab</a>                        |
-|       4 | 📖 C++ Flow Control                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-flow-control-178536'>Start Lab</a>                     |
-|       5 | 📖 C++ String Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-string-fundamentals-178539'>Start Lab</a>              |
-|       6 | 📖 C++ Arrays Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-arrays-fundamentals-178535'>Start Lab</a>              |
-|       7 | 📖 C++ Function Essentials               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-function-essentials-178537'>Start Lab</a>              |
-|       8 | 📖 C++ Formatting, File IO and Namespace | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-formatting-file-io-and-namespace-178541'>Start Lab</a> |
+|   Index | Name                                    | Difficulty   | Practice                                                                                                         |
+|---------|-----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First C++ Lab                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-your-first-c-lab-391803'>Start Lab</a>                   |
+|      02 | 🎯 Personalized C++ Greeting             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-personalized-c-greeting-391809'>Start Challenge</a>      |
+|      03 | 📖 Basic Syntax of C++                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-basic-syntax-of-c-178534'>Start Lab</a>                  |
+|      04 | 📖 C++ Variables and Types               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-variables-and-types-178540'>Start Lab</a>              |
+|      05 | 📖 C++ Operators                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-operators-178538'>Start Lab</a>                        |
+|      06 | 📖 C++ Flow Control                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-flow-control-178536'>Start Lab</a>                     |
+|      07 | 📖 C++ String Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-string-fundamentals-178539'>Start Lab</a>              |
+|      08 | 📖 C++ Arrays Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-arrays-fundamentals-178535'>Start Lab</a>              |
+|      09 | 📖 C++ Function Essentials               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-function-essentials-178537'>Start Lab</a>              |
+|      10 | 📖 C++ Formatting, File IO and Namespace | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-formatting-file-io-and-namespace-178541'>Start Lab</a> |
 
 ## More
 
