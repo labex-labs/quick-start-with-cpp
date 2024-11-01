@@ -28,7 +28,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |   Index | Name                                    | Difficulty   | Practice                                                                                                         |
 |---------|-----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First C++ Lab                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-your-first-c-lab-391803'>Start Lab</a>                   |
-|      02 | 🎯 Personalized C++ Greeting             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-personalized-c-greeting-391809'>Start Challenge</a>      |
+|      02 | 🎯 Personalized C++ Greeting             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/cpp-personalized-c-greeting-391809'>Start Challenge</a>           |
 |      03 | 📖 Basic Syntax of C++                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-basic-syntax-of-c-178534'>Start Lab</a>                  |
 |      04 | 📖 C++ Variables and Types               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-variables-and-types-178540'>Start Lab</a>              |
 |      05 | 📖 C++ Operators                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-c-operators-178538'>Start Lab</a>                        |
