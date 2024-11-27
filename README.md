@@ -1,5 +1,9 @@
 # Quick Start with C++
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 [![Quick Start with C++](https://cover-creator.appbot.io/quick-start-with-cpp.png)](https://labex.io/courses/quick-start-with-cpp)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-cpp)
